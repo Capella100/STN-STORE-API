@@ -1,0 +1,44 @@
+[
+    {
+        "name": "accent chiar",
+        "price": 25,
+        "company": "BMW",
+        "rating": 4
+    },
+    {
+        "name": "aalbany sectional",
+        "price": 100,
+        "company": "liddy",
+        "rating": 4.6
+    },
+    {
+        "name": "arm chair",
+        "price": 150,
+        "company": "BMW",
+        "rating": 4.8
+    },
+    {
+        "name": "dining table",
+        "price": 200,
+        "company": "ikea",
+        "rating": 4.5
+    },
+    {
+        "name": "bar stool",
+        "price": 40,
+        "company": "liddy",
+        "rating": 4.6
+    },
+    {
+        "name": "wooden table",
+        "price": 23,
+        "company": "caressa",
+        "featured": true
+    },
+    {
+        "name": "second wooden table",
+        "price": 25,
+        "company": "caressa",
+        "featured": true
+    }
+]
